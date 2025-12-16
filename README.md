@@ -5,11 +5,11 @@ studies for the AE 370 Group Project 2.
 
 ## Problem Description
 We solve the one-dimensional wave equation
-$'u_{tt} = c^2 u_xx'$ on x ∈ [0, L] with homogeneous Dirichlet boundary conditions:
-u(0,t) = u(L,t) = 0.
+$u_{tt} = c^2 u_{xx}$ on x ∈ [0, L] with homogeneous Dirichlet boundary conditions:
+$u(0,t) = u(L,t) = 0$.
 
 The initial conditions are:
-u(x,0) = sin(πx/L),  u_t(x,0) = 0.
+$u(x,0) = sin(πx/L)$,  $u_t(x,0) = 0$.
 
 An analytical solution is available and is used for verification.
 
