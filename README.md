@@ -5,7 +5,7 @@ studies for the AE 370 Group Project 2.
 
 ## Problem Description
 We solve the one-dimensional wave equation
-u_tt = c^2 u_xx on x ∈ [0, L] with homogeneous Dirichlet boundary conditions:
+\$u_tt = c^2 u_xx \$ on x ∈ [0, L] with homogeneous Dirichlet boundary conditions:
 u(0,t) = u(L,t) = 0.
 
 The initial conditions are:
