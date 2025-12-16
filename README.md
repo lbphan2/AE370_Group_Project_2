@@ -18,9 +18,3 @@ The file `wave_project.py` contains:
 - The explicit second-order wave equation solver
 - A spatial convergence study
 - A CFL stability study
-
-## How to Run
-From a Python environment with NumPy and Matplotlib installed:
-
-```bash
-python wave_project.py
